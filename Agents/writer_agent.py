@@ -13,8 +13,4 @@ config_list = [
     }
 ]
 
-llm_config = {
-    "config_list": config_list,
-    "temperature": 0.5,
-    "timeout": 120,
-}
+
